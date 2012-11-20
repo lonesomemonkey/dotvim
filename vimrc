@@ -19,3 +19,8 @@ set guioptions+=T
 set t_Co=256
 set number
 set guifont=monaco
+
+"Pathogen
+call pathogen#runtime_append_all_bundles()
+call pathogen#helptags()
+
