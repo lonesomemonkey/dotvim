@@ -14,11 +14,12 @@ syntax on
 
 " Lonesome Monkey
 colorscheme ir_black
+set tabstop=4
 set guioptions+=m
 set guioptions+=T
 set t_Co=256
 set number
-set guifont=monaco
+set guifont=Monaco:h14
 
 "Pathogen
 call pathogen#runtime_append_all_bundles()
