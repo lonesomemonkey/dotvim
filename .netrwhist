@@ -1,10 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =8
-let g:netrw_dirhist_1='/Users/Mantis/WorkFolder/objectiveC'
-let g:netrw_dirhist_2='/Users/Mantis/WorkFolder/objectiveC/myTest'
-let g:netrw_dirhist_3='/Users/Mantis/WorkFolder/objectiveC'
-let g:netrw_dirhist_4='/Users/Mantis/.config'
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/Mantis/WorkFolder'
+let g:netrw_dirhist_2='/Users/Mantis/WorkFolder/pyQT'
+let g:netrw_dirhist_3='/Users/Mantis/WorkFolder'
+let g:netrw_dirhist_4='/Users/Mantis/WorkFolder/C_and_C++'
 let g:netrw_dirhist_5='/Users/Mantis/WorkFolder/pyQT'
-let g:netrw_dirhist_6='/Users/Mantis/WorkFolder/testRsync'
-let g:netrw_dirhist_7='/Users/Mantis/WorkFolder/C_and_C++/RadioCust'
-let g:netrw_dirhist_8='/Users/Mantis/WorkFolder/testRsync'
+let g:netrw_dirhist_6='/Users/Mantis/WorkFolder/C_and_C++'
