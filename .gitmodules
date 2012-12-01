@@ -7,9 +7,9 @@
 [submodule "bundle/SrcExpl"]
 	path = bundle/SrcExpl
 	url = https://github.com/wesleyche/SrcExpl.git
-[submodule "bundle/Trinity"]
-	path = bundle/Trinity
-	url = https://github.com/wesleyche/Trinity.git
 [submodule "bundle/tabbar"]
 	path = bundle/tabbar
 	url = https://github.com/vim-scripts/TabBar.git
+[submodule "bundle/FuzzyFinder"]
+	path = bundle/FuzzyFinder
+	url = https://github.com/vim-scripts/FuzzyFinder.git

@@ -40,4 +40,8 @@ set guifont=Monaco:h14
 "Pathogen
 "call pathogen#runtime_append_all_bundles()
 "call pathogen#helptags()
-
+map <C-H> <C-W>h
+map <C-J> <C-W>j
+map <C-K> <C-W>k
+map <C-L> <C-W>l
+map <C-TAB> <C-W>w
